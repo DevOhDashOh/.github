@@ -6,10 +6,9 @@
 
 ## 0. 사전 준비
 
-### 👉[준비하러 가기](https://github.com/DevOhDashOh/.github/blob/main/Pre_Course.md)👈
-
+### [준비하러 가기](https://github.com/DevOhDashOh/.github/blob/main/Pre_Course.md)
 ## 1. Algorithm 
-### 💯👉[Let's go To Algo Repo](https://github.com/DevOhDashOh/CodingTestPractice)👈💯
+### [Our Algo Repo](https://github.com/DevOhDashOh/CodingTestPractice)
 
 [//]: # ()
 [//]: # (## 3. 과제 진행현황)
