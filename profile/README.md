@@ -1,8 +1,8 @@
 # DevohDashOh
 ### Member
 
-| Member | [김정민](https://github.com/JeongMin-98) |   [정윤호](https://github.com/yunhobb)   | [주영훈](https://github.com/JooYoungHoon) |||
-|:------:|:-------------------------------------:|:-----------------------------------:|:-------:|:---:|:---:|
+| Member | [김정민](https://github.com/JeongMin-98) |   [정윤호](https://github.com/yunhobb)   | [주영훈](https://github.com/JooYoungHoon) |
+|:------:|:-------------------------------------:|:-----------------------------------:|:-------:|
 
 ## 0. 사전 준비
 
