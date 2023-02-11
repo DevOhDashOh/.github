@@ -24,7 +24,7 @@
 
 
 ## 알고리즘 강의
-[알고리즘 강의](https://www.youtube.com/@eleanorlim)
+###[알고리즘 강의](https://www.youtube.com/@eleanorlim)
 
 ## Python Reference 
-[Python Reference] (https://devdocs.programmers.co.kr/python~3.8/)
+###[Python Reference](https://devdocs.programmers.co.kr/python~3.8/)
